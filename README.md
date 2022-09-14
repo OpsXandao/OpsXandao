@@ -4,7 +4,7 @@
 
 📚 I started to study Java on August 2022. I joined a course by Adm&Tec to improve my Java skills while also studying Guanabara's Java Course.
 
-⭐ I got the Scrum fundamentals certification and did some Bootcamps from DIO, rocketseat, and others to get more XP. 💫
+⭐ I got the Scrum fundamentals certification and I am doing some Bootcamps from DIO, rocketseat, and others to get more XP. 💫
 
 🌐 I am interested in HTML5/CSS3 and Front-end world also studying Java.
 
