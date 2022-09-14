@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, People 👋
 
-<!--
-**OpsXandao/OpsXandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 How are you? My name is Alexandre and I am 19 years old.
 
-Here are some ideas to get you started:
+📚 I started to study Java on August 2022. I joined a course by Adm&Tec to improve my Java skills while also studying Guanabara's Java Course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ I got the Scrum fundamentals certification and did some Bootcamps from DIO, rocketseat, and others to get more XP. 💫
+
+🌐 I am interested in HTML5/CSS3 and Front-end world also studying Java.
+
+🤓 I am looking forward to my first opportunity. Give a look at my repositories. Thank you for reading.
+
+📧 Contact for more info:
+
+[Linkedin](https://www.linkedin.com/in/alexandre-paiva-080181247/)
+
+[Instagram](https://www.instagram.com/ops_xandao/)
+
+email: alexandremarcio1504@gmail.com
+
