@@ -2,7 +2,7 @@
 
 😄 How are you? My name is Alexandre and I am 19 years old.
 
-📚 I started to study Java on August 2022. I joined a course by Adm&Tec to improve my Java skills while also studying Guanabara's Java Course.
+📚 I started to study Java on July 2022. I joined a course by Adm&Tec to improve my Java skills while also studying Guanabara's Java Course.
 
 ⭐ I got the Scrum fundamentals certification and I am doing some Bootcamps from DIO, rocketseat, and others to get more XP. 💫
 
